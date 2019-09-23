@@ -1,0 +1,73 @@
+.navbar-brand {
+    position: absolute;
+    padding: 20px;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+.text-white{
+    color: white;
+    text-align: left;
+}
+
+.fa-facebook-official,.fa-facebook-official:hover,.fa-facebook-official:visited {
+    background-color: black;
+    color: white;
+}
+
+.fa-linkedin-square,.fa-linkedin-square:hover,.fa-linkedin-square:visited {
+    background-color: black;
+    color: white;
+}
+
+.fa-github-square,.fa-github-square:hover,.fa-github-square:visited {
+    background-color: black;
+    color: white;
+}
+
+.vertical-center{
+    vertical-align: middle;
+}
+
+.footer-center{
+    padding-top: 5px;
+}
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:none;
+}
+
+.achievements-div {
+    border: 2px solid gray;
+    text-align: center;
+    padding: 20px 0px;
+    margin: 50px 0px;
+}
+
+.achievements-value {
+    font-size: 60px;
+}
+
+.achievements-key {
+    font-size: 24px;
+}
+
+.section-heading {
+    font-size: 35px;
+    text-align: center;
+    color: dimgray;
+}
+
+hr {
+    border: 0.5px solid black;
+    width: 100%;
+}
+
+text-center {
+    text-align: center;
+}
